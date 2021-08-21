@@ -1,0 +1,39 @@
+body{
+    background-color: #e07b5fe0;
+    
+}
+
+h1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+button{
+    margin: 10px 5px 0 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color:#e07b5fe0;
+    width: 110px;
+    height: 70px;
+    border: solid 1px white;
+    border-radius: 6px;
+}
+
+button:hover{
+    background-color: white;
+    color: #e07b5fe0;
+}
